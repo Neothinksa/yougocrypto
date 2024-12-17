@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saving Money for Crypto</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header, footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            background-color: #555;
+            padding: 0.5rem 0;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+        }
+        nav a:hover {
+            background-color: #777;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 1rem;
+        }
+        .section {
+            margin-bottom: 2rem;
+        }
+        h1, h2 {
+            color: #222;
+        }
+        .plan {
+            border: 1px solid #ddd;
+            padding: 1rem;
+            border-radius: 5px;
+            background-color: #fff;
+            margin-bottom: 1rem;
+        }
+        .contact-options ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .contact-options ul li {
+            margin-bottom: 0.5rem;
+        }
+        footer {
+            font-size: 0.9rem;
+        }
+        .media {
+            text-align: center;
+            margin: 2rem 0;
+        }
+        .media img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        .media video {
+            max-width: 100%;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Saving Money for Crypto</h1>
+        <p>Your reliable partner in crypto trading and savings growth.</p>
+    </header>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#plans">Savings Plans</a>
+        <a href="#how-it-works">How It Works</a>
+        <a href="#contact">Contact Us</a>
+        <a href="#faqs">FAQs</a>
+    </nav>
+
+    <main class="container">
+        <section id="home" class="section">
+            <h2>Welcome to Saving Money for Crypto</h2>
+            <p>We provide a secure and transparent way for you to grow your savings through crypto trading. Start with as little as R500 and enjoy daily accessibility to your funds. Trust us to handle your crypto investments while you reap the rewards.</p>
+        </section>
+
+        <section id="plans" class="section">
+            <h2>Our Savings Plans</h2>
+            <div class="plan">
+                <h3>Starter Plan</h3>
+                <p>Deposit: R500</p>
+                <p>Perfect for beginners looking to explore crypto trading.</p>
+            </div>
+            <div class="plan">
+                <h3>Standard Plan</h3>
+                <p>Deposit: R1000</p>
+                <p>Ideal for those ready to make a moderate investment.</p>
+            </div>
+            <div class="plan">
+                <h3>Premium Plan</h3>
+                <p>Deposit: R5000</p>
+                <p>Best for serious investors aiming for higher returns.</p>
+            </div>
+        </section>
+
+        <section id="how-it-works" class="section">
+            <h2>How It Works</h2>
+            <ol>
+                <li><strong>Save:</strong> Choose a savings plan and deposit your money with us.</li>
+                <li><strong>We Trade:</strong> Our experts use your funds for secure and strategic crypto trading.</li>
+                <li><strong>Withdraw:</strong> Your daily earnings are made available for withdrawal to your bank account.</li>
+            </ol>
+        </section>
+
+        <section id="media" class="section media">
+            <h2>Learn and Explore</h2>
+            <p>Explore our platform through videos and visuals:</p>
+            <img src="crypto-graphic.jpg" alt="Crypto Trading Illustration">
+            <video controls>
+                <source src="crypto-training.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </section>
+
+        <section id="contact" class="section">
+            <h2>Contact Us</h2>
+            <div class="contact-options">
+                <ul>
+                    <li><strong>Postal Address:</strong> 123 Crypto Lane, Johannesburg, SA</li>
+                    <li><strong>Email:</strong> support@savingcrypto.com</li>
+                    <li><strong>Contact Number:</strong> +27 123 456 789</li>
+                    <li><strong>WhatsApp Group:</strong> <a href="https://wa.me/0820731594">Join Now</a></li>
+                    <li><strong>Inbox Us:</strong> <a href="#">Send a Message</a></li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="faqs" class="section">
+            <h2>Frequently Asked Questions</h2>
+            <h3>Is my money secure?</h3>
+            <p>Yes, we use top-notch security measures to protect your funds.</p>
+            <h3>How do I withdraw my money?</h3>
+            <p>Log in to your account and request a withdrawal to your bank account.</p>
+            <h3>What if I want to cancel?</h3>
+            <p>You can withdraw your funds at any time without penalties.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Saving Money for Crypto. All rights reserved.</p>
+    </footer>
+</body>
+</html>
